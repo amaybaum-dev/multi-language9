@@ -1,9 +1,6 @@
 {
-  "settingsInheritedFrom": "amaybaum-dev/whitesource-config@main"
+  "settingsInheritedFrom": "amaybaum-dev/whitesource-config@main",
+  "scanSettings": {
+    "enableReachability": false
+  }
 }
-
-
-
-
-
-
